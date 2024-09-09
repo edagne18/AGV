@@ -29,4 +29,4 @@ For any issues or questions regarding the project, please contact the project co
 
 ## License
 
-This project is licensed for educational purposes only as part of the COMP 493 Capstone Project.
+This project is licensed for educational purposes only as part of the Capstone Project.
